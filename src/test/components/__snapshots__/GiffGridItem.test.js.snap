@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas con snapshot debe mostrar el componente correctamente  1`] = `
+<div>
+  <img
+    alt="1234"
+    className="cards"
+    src="https://localhost:6000/welcome"
+  />
+</div>
+`;
